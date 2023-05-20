@@ -34,3 +34,5 @@ print("All Done!")
 # winpty python manage.py createsuperuser
 # python manage.py runserver
 # check localhost:8000
+
+# (mydb file can be deleted after this is done and works)
