@@ -19,3 +19,4 @@ class Record(models.Model):
     # Django handles all the DB interaction stuff
     # but need to use migrate again after setting this up
     # python manage.py makemigrations
+    # python manage.py migrate
